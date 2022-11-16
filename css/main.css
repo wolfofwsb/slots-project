@@ -13,6 +13,15 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 500px 740px;
+    margin: 700px 850px;
    
+  }
+
+  body {
+    background-image: url(https://dgbijzg00pxv8.cloudfront.net/0769856e-da0e-4e7c-b0b8-dbdc06c4c5ee/000000-0000000000/61380038385364402977420130120309661532704592258832595817005838761998505576819/ITEM_PREVIEW1.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: darkgray;
+
+
   }
