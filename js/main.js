@@ -1,3 +1,12 @@
-h1 {
-    text-align: center;
-}
+let arrayNumbersHungry = [
+
+    '1',
+    '2',
+    '3',
+    '4',
+    '5',
+    '6',
+    '7',
+    '8',
+    '9',
+]

@@ -4,24 +4,65 @@ h1 {
     text-align: center;
 }
 
+  body {
+    backround-color: grey;
+    
+
+
+  }
+
 button {
     background-color: blue;
     border-radius: 50%;
     color: #00fb47;
-    padding: 60px;
+    padding: 20px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     font-size: 16px;
-    margin: 700px 850px;
+    margin: 100px 500px;
    
   }
 
-  body {
-    background-image: url(https://dgbijzg00pxv8.cloudfront.net/0769856e-da0e-4e7c-b0b8-dbdc06c4c5ee/000000-0000000000/61380038385364402977420130120309661532704592258832595817005838761998505576819/ITEM_PREVIEW1.gif);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: darkgray;
 
-
-  }
+  .reels {
+    display: grid; 
+ 
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    gap: 8px;
+    height: 100%;
+    
+ }
+   
+ #reel1 {
+ 
+    background-color: #383838; 
+    grid-row-start: 1;
+    grid-column-start: 1;
+ 
+    grid-row-end: 50;
+    grid-column-end: 2;
+    
+ }
+ #reel2 {
+ 
+    background-color: #383838; 
+    grid-row-start: 1;
+    grid-column-start: 2;
+ 
+    grid-row-end: 50;
+    grid-column-end: 3;
+    
+ }
+ #reel3 {
+ 
+    background-color: #383838; 
+    grid-row-start: 1;
+    grid-column-start: 3;
+ 
+    grid-row-end: 50;
+    grid-column-end: 4;
+    
+ }
