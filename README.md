@@ -8,7 +8,7 @@ simple game of Crypto Slots. Where you can win crypto without spending massive c
 
 The technologies used in the devlopment phase were HTML5, CSS v3, and JavaScript (ECMAScript 2020).
 ----------------------------------------------------------------------------------------------------
-Included below are 2 screenshots to catch a preview of our game before you get hands on. Plus a personal link to your purchased game!
+Included below are 3 screenshots to catch a preview of our game before you get hands on. Plus a personal link to your purchased game!
 
 Three screenshots:
 
