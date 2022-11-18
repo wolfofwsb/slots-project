@@ -21,6 +21,13 @@ Personal link to your purchased game:
 https://wolfofwsb.github.io/slots-project/
 
 ----------------------------------------------------------------------------------------------------
+Look out for these updates:
+
+1. fluid animated backrounds.
+2. option for more than 3 reels.
+3. sound effects.
+
+----------------------------------------------------------------------------------------------------
 Any comments, questions, or concerns can be forwarded to: ideas@backroadgames.com
 
 ─▀▀▌───────▐▀▀
