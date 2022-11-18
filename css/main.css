@@ -1,68 +1,60 @@
 h1 {
-    color: #00fb47;
-    background-color: blue;
-    text-align: center;
+   color: #00fb47;
+   background-color: blue;
+   text-align: center;
 }
 
-  body {
-    backround-color: grey;
-    
-
-
-  }
-
 button {
-    background-color: blue;
-    border-radius: 50%;
-    color: #00fb47;
-    padding: 20px;
-    text-align: center;
-    text-decoration: none;
-    display: block;
-    font-size: 16px;
-    margin: 100px 500px;
-   
-  }
+ background-color: blue;
+ border-radius: 50%;
+ color: #00fb47;
+ padding: 50px;
+ text-align: center;
+ text-decoration: none;
+ display: block;
+ font-size: 16px;   
+ margin: 0 auto;
+}
 
+.cryptoCoins {
+ height: 150px;
+ background: white;
+ width: 150px;
+ margin: 130px;
+ border-radius: 50%;
+ align-items: center;
+ justify-content: center;
+ display: flex;
+}
 
-  .reels {
-    display: grid; 
- 
-    grid-template-rows: 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
-    
-    gap: 8px;
-    height: 100%;
-    
- }
-   
- #reel1 {
- 
-    background-color: #383838; 
-    grid-row-start: 1;
-    grid-column-start: 1;
- 
-    grid-row-end: 50;
-    grid-column-end: 2;
-    
- }
- #reel2 {
- 
-    background-color: #383838; 
-    grid-row-start: 1;
-    grid-column-start: 2;
- 
-    grid-row-end: 50;
-    grid-column-end: 3;
-    
- }
- #reel3 {
- 
-    background-color: #383838; 
-    grid-row-start: 1;
-    grid-column-start: 3;
- 
-    grid-row-end: 50;
-    grid-column-end: 4;
-    
- }
+.tokens {
+ font-size: 100px;
+}
+
+.cryptoCurrency {
+ display: flex;
+}
+
+.cryptoCoin {
+ height: 150px;
+ background: #00fb47;
+ width: 125px;
+ margin: 200px;
+ border-radius: 0%;
+ align-items: center;
+}
+
+#genBackround {
+ height: 100%;
+ width: 100%;
+ background-color: blue;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+#resultMessage {
+   color: #00fb47;
+   font-size: 50px;
+}
