@@ -1,9 +1,7 @@
 
 
 const myCryptoArray = [
-    '₿',
-    '🚀 ',
-    '🦊',
+    '₿', '🚀 ',  '🦊',
   ]
   
   
@@ -31,13 +29,4 @@ const myCryptoArray = [
     } else {
       resultMessage.innerText = 'You lose'
     }
-  }
-  
-  
-  function init() {
-    slot1.innerText = ""
-    slot2.innerText = ""
-    slot3.innerText = ""
-    resultMessage.innerText = ""
-    render();
   }
